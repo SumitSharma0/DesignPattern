@@ -1,4 +1,4 @@
-package org.example.creational.singleton.builder;
+package org.example.creational.builder;
 
 public class Car {
 
